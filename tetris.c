@@ -1,3 +1,5 @@
+//EXAMPLE FILE IN ROFNUT
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
